@@ -9,4 +9,5 @@ header {
 }
 .content {
   padding: var(--content-padding);
+  border: 3px solid black;
 }
